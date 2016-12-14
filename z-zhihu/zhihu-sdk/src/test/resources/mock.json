@@ -1,0 +1,87 @@
+{
+  "news": {
+    "date": "20161211",
+    "stories": [
+      {
+        "images": [
+          "http:\/\/pic3.zhimg.com\/90aa76e395d3a0c71e6d0f3c6b150e5a.jpg"
+        ],
+        "type": 0,
+        "id": 9044263,
+        "ga_prefix": "121118",
+        "title": "不想一病回到解放前，你该备些重疾险"
+      },
+      {
+        "images": [
+          "http:\/\/pic4.zhimg.com\/e43c5063b33c4b137d33a1bae294a597.jpg"
+        ],
+        "type": 0,
+        "id": 9056336,
+        "ga_prefix": "121117",
+        "title": "知乎好问题 · 对于提高手机摄影水平，有哪些心得？"
+      },
+      {
+        "images": [
+          "http:\/\/pic2.zhimg.com\/249b24788783a5a5766efd023cfa2b65.jpg"
+        ],
+        "type": 0,
+        "id": 9045225,
+        "ga_prefix": "121116",
+        "title": "既然能被分析预测，那我们真的有自由意志吗？"
+      },
+      {
+        "title": "重庆这条老街，鲜为人知却绝对值得一游",
+        "ga_prefix": "121115",
+        "images": [
+          "http:\/\/pic2.zhimg.com\/2ef15f80e8e40f62d193ec08659211d9.jpg"
+        ],
+        "multipic": true,
+        "type": 0,
+        "id": 9044178
+      },
+      {
+        "title": "购物车里那么多爆款，到底是谁决定了我们在买什么？",
+        "ga_prefix": "121114",
+        "images": [
+          "http:\/\/pic4.zhimg.com\/7c7157305a400471be12b9d4218dbdfb.jpg"
+        ],
+        "multipic": true,
+        "type": 0,
+        "id": 9051164
+      },
+      {
+        "title": "代替鲍勃 · 迪伦领诺奖的她，同样是一位传奇",
+        "ga_prefix": "121113",
+        "images": [
+          "http:\/\/pic3.zhimg.com\/a2b4a0171defc8eaf7bcaf0ecf6bc2ba.jpg"
+        ],
+        "multipic": true,
+        "type": 0,
+        "id": 9055541
+      }
+    ],
+    "top_stories": [
+      {
+        "image": "http:\/\/pic2.zhimg.com\/8af3ae140c10aaa1baba12c2a02deea5.jpg",
+        "type": 0,
+        "id": 9056336,
+        "ga_prefix": "121117",
+        "title": "知乎好问题 · 对于提高手机摄影水平，有哪些心得？"
+      },
+      {
+        "image": "http:\/\/pic4.zhimg.com\/7724a2aaac948f07294bad0db19f97e3.jpg",
+        "type": 0,
+        "id": 9055541,
+        "ga_prefix": "121113",
+        "title": "代替鲍勃 · 迪伦领诺奖的她，同样是一位传奇"
+      },
+      {
+        "image": "http:\/\/pic3.zhimg.com\/0bc272174989545654b07a69c776ca46.jpg",
+        "type": 0,
+        "id": 9051479,
+        "ga_prefix": "121107",
+        "title": "网络太「卡」了，该怎么办？"
+      }
+    ]
+  }
+}
